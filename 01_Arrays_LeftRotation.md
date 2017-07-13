@@ -12,10 +12,10 @@ In fact, it was **k** instead of **d** in the pre-written code, so I went with *
 My submission with comments was the following.
 
 ```
-def array_left_rotation(a, n, k):                   # a: array, n: number of elements of the array, k: number of rotations
-    sublist_front = a[:k]                           # Cut out the first k numbers 
-    sublist_back = a[k:]                            # Cut out the rest
-    sol = sublist_back +(sublist_front)             # Combine the two in the reverse order
+def array_left_rotation(a, n, k):               # a: array, n: number of elements of the array, k: number of rotations
+    sublist_front = a[:k]                       # Cut out the first k numbers 
+    sublist_back = a[k:]                        # Cut out the rest
+    sol = sublist_back +(sublist_front)         # Combine the two in the reverse order
 
     return sol
     
