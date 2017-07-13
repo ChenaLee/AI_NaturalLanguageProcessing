@@ -4,8 +4,7 @@ This Challenge can be found here: https://www.hackerrank.com/challenges/ctci-arr
 
 The following is the description of the challenge.
 
->A left rotation operation on an array of size  shifts each of the array's elements  unit to the left. For example, if left rotations are performed on array , then the array would become .
-Given an array of **n** integers and a number, **d**, perform **d** left rotations on the array. Then print the updated array as a single line of space-separated integers.
+>Given an array of **n** integers and a number, **d**, perform **d** left rotations on the array. Then print the updated array as a single line of space-separated integers.
 
 In fact, it was **k** instead of **d** in the pre-written code, so I went with **k**.
 
