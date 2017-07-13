@@ -1,6 +1,6 @@
 # CTCI ( Cracking The Coding Interview )
 :Solutions of Cracking The Coding Interview Challenges on https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview.
-Solutions and explanations are my original work.
+Solutions and explanations are my own original work and unless otherwise noted, they passed all the test cases HackerRank provides.
 
 All of the codes are written in python.
 
