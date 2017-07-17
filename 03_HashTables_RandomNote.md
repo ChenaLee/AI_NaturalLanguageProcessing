@@ -1,4 +1,4 @@
-# [Data Structures] Hash Tables: Random Note
+# [Data Structures] Hash Tables: Ransom Note
 
 This Challenge can be found here: https://www.hackerrank.com/challenges/ctci-ransom-note.
 
